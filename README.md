@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Maxym.
-- 👀 I’m interested in IT and sports.
-- 🌱 I’m currently learning python.
-- 📫 How to reach me ...
+- 👋 Hi everyone!
